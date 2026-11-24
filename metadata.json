@@ -1,0 +1,6 @@
+{
+  "name": "Onethy CRM — Demonstração Comercial & Follow-up",
+  "description": "Demonstração interativa do Onethy CRM com gestão de clientes, funil comercial arrastável, central inteligente de follow-ups, modelos de mensagens e indicadores comerciais em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
